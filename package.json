@@ -2,7 +2,7 @@
   "name": "@kungfu-trader/action-set-collaborators",
   "version": "1.0.2-alpha.0",
   "main": "dist/index.js",
-  "repository": "https://github.com/kungfu-trader/action-set-collaborators",
+  "repository": "https://github.com/kungfu-systems/action-set-collaborators",
   "author": "Kungfu Trader",
   "license": "Apache-2.0",
   "scripts": {
